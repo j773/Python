@@ -1,1 +1,1 @@
-# Python
+# Python para científicos
